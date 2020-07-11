@@ -24,28 +24,28 @@ ________________________________________________________________________________
 
 Maven Dependencies :
                       <dependencies>
-                          <dependency>
-                            <groupId>junit</groupId>
-                            <artifactId>junit</artifactId>  
-                            <version>4.12</version>
-                            <scope>test</scope>
-                          </dependency>
+                   
+
+                         <!-- https://mvnrepository.com/artifact/edu.stanford.nlp/stanford-corenlp -->
                           <dependency>
                             <groupId>edu.stanford.nlp</groupId>
                             <artifactId>stanford-corenlp</artifactId>
                             <version>3.9.2</version>
                           </dependency>
+                          <!-- https://mvnrepository.com/artifact/edu.stanford.nlp/stanford-corenlp -->
                           <dependency>
                             <groupId>edu.stanford.nlp</groupId>
                             <artifactId>stanford-corenlp</artifactId>
                             <version>3.9.2</version>
                             <classifier>models</classifier>
                           </dependency>
+                          <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
                           <dependency>
                             <groupId>com.google.code.gson</groupId>
                             <artifactId>gson</artifactId>
                             <version>2.8.5</version>
                           </dependency>
+                          
                           <dependency>
                             <groupId>org.slf4j</groupId>
                             <artifactId>slf4j-simple</artifactId>
