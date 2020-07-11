@@ -41,8 +41,6 @@ Maven Dependencies :
                             <version>3.9.2</version>
                             <classifier>models</classifier>
                           </dependency>
-
-                          <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
                           <dependency>
                             <groupId>com.google.code.gson</groupId>
                             <artifactId>gson</artifactId>
